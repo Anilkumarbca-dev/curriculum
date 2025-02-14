@@ -213,6 +213,8 @@ If you find typing out the comments syntax tiring, the following shortcut will h
 The following questions are an opportunity to reflect on key topics in this lesson. If you can't answer a question, click on it to review the material, but keep in mind you are not expected to memorize or master this knowledge.
 
 - [How do you create a paragraph in HTML?](#create-paragraph-element)
+
+- <p> this is a paragraph </p>
 - [How do you create a heading in HTML?](#headings)
 - [How many different levels of headings are there and what is the difference between them?](#different-heading-levels)
 - [What element should you use to make text bold and important?](#strong-element)
@@ -227,3 +229,5 @@ This section contains helpful links to related content. It isn't required, so co
 
 - [The semantic difference between &lt;strong> and &lt;b> or &lt;em> and &lt;i> tags and when to use them.](https://scribe.rip/@zac_heisey/when-to-use-strong-b-em-and-i-tags-in-your-markup-fa4d0af8affb)
 - [An interactive HTML text formatting article](https://www.w3schools.com/html/html_formatting.asp)
+
+- 
