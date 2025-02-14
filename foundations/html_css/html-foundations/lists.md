@@ -52,11 +52,41 @@ Ordered lists are created using the `<ol>` element. Each individual item in them
 To get some practice using lists, create a new HTML document and create the following lists:
 
 1. An unordered shopping list of your favorite foods
-1. An ordered list of todo's you need to get done today
-1. An unordered list of places you'd like to visit someday
-1. An ordered list of your all time top 5 favorite video games or movies
+       <h1>Food list</h1>
+    <ul>
+        <li>Rice</li>
+        <li>Dal</li>
+        <li>vegetable</li>
+        <li>chapati</li>
+    </ul>
 
-</div>
+1. An ordered list of todo's you need to get done today
+    <h1>Order list of todo's</h1>
+ <ol>
+    <li>fresh</li>
+    <li>brush</li>
+    <li>bath</li>
+    <li>get prepare for work </li>
+    <li>come on home at time</li>
+ </ol>
+ 
+1. An unordered list of places you'd like to visit someday
+   <h1>Places you’d like to visit someday</h1>
+ <ul>
+    <li>Banaras</li>
+    <li>Prayagraj</li>
+    <li>kullu manali</li>
+    <li>Nepal</li>
+    <li>All world</li>
+ </ul>
+ 
+1. An ordered list of your all time top 5 favorite video games or movies
+<h1> your all time top 5 favorite video games or movies </h1>
+ <ol>
+    <li>Series :Money heiest</li>
+    <li>Movies: Inception</li>
+ </ol>
+
 
 ### Knowledge check
 
