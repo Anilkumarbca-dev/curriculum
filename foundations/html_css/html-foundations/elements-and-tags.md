@@ -8,6 +8,7 @@ This section contains a general overview of topics that you will learn in this l
 
 - Explain what HTML tags are.
 - Explain what HTML elements are.
+- Explain how HTML work.
 
 ### Elements and tags
 
